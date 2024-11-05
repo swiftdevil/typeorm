@@ -1,5 +1,5 @@
 {
-  "name": "typeorm",
+  "name": "@swiftdevil/typeorm",
   "private": true,
   "version": "0.3.20",
   "description": "Data-Mapper ORM for TypeScript, ES7, ES6, ES5. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, MongoDB databases.",
@@ -109,7 +109,6 @@
     "@types/uuid": "^9.0.0",
     "@types/yargs": "^17.0.22",
     "@typescript-eslint/eslint-plugin": "^6.17.0",
-    "better-sqlite3": "^8.1.0",
     "chai": "^4.3.7",
     "chai-as-promised": "^7.1.1",
     "class-transformer": "^0.5.1",
